@@ -2,7 +2,7 @@
 *Team Members*
 |   Enrollment No.  |   Name   | GithubId |
 |   --------------  |   ----   | -------- |
-|    IIB2019004  |   saloni singla | ........ |
+|    IIB2019004  |   saloni singla | Saloni50 |
 |    IIB2019005  |   Sandeep kumar | ........ |
 |    IIB2019006  |   Amanjeet Kumar | Amanjeetk11 |
 
