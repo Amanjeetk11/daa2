@@ -3,7 +3,7 @@
 |   Enrollment No.  |   Name   | GithubId |
 |   --------------  |   ----   | -------- |
 |    IIB2019004  |   saloni singla | Saloni50 |
-|    IIB2019005  |   Sandeep kumar | ........ |
+|    IIB2019005  |   Sandeep kumar |sandy9808 |
 |    IIB2019006  |   Amanjeet Kumar | Amanjeetk11 |
 
 
