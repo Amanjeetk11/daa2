@@ -9,7 +9,7 @@
 
 
 
-## Group No-".."
+## Group No-"21"
 
 Faculty Name-"Dr. Rahul Kala"
 
@@ -18,6 +18,14 @@ Mentor Name- "Md. Meraz"
 
 
 ## Problem Statement
+The longest Zig-Zag subsequence problem is to find length of the longest
+subsequence of given sequence such that all elements of this are
+alternating.
+If a sequence {x1, x2, .. xn} is alternating sequence then its element satisfy
+one of the following relation :
+ x1 < x2 > x3 < x4 > x5 < …. xn or
+ x1 > x2 < x3 > x4 < x5 > …. xn
+Solve using Dynamic programming.
 
 
 ## How to use code
