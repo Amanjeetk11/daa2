@@ -1,13 +1,10 @@
-"Assignment2"
-
-Team Members
-
-Enrollment No.	Name    	GithubId
-
-IIB2019004         Saloni singla  
-IIB2019005         sandeep kumar 
-
-IIB2019006	Amanjeet Kumar	Amanjeetk11
+# Assignment2
+*Team Members*
+|   Enrollment No.  |   Name   | GithubId |
+|   --------------  |   ----   | -------- |
+|    IIB2019004  |   saloni singla | ........ |
+|    IIB2019005  |   Sandeep kumar | ........ |
+|    IIB2019006  |   Amanjeet Kumar | Amanjeetk11 |
 
 
 
