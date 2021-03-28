@@ -34,7 +34,8 @@ First Step is to Download/clone the repository
 git clone https://github.com/Amanjeetk11/daa2
 
 ## Theory
-
+Let’s first formally define what subsequence is.
+A  subsequence  is  a  sequence  that  can  be  derived  from  an-other  sequence  by  zero  or  more  elements,  without  changingthe  order  of  the  remaining  elements  as  an  example  for  thearray[1,2,3,4]the  subsequences  are  (1),  (2),  (3),  (4),  (1,2),(1,3),(1,4),  (2,3),  (2,4),  (3,4),  (1,2,3),  (1,2,4),  (1,3,4),  (2,3,4),(1,2,3,4)
          
 ## Analysis
 ### Time Complexity
