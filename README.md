@@ -92,27 +92,30 @@ A  subsequence  is  a  sequence  that  can  be  derived  from  an-other  sequenc
 **Time Complexity**
 
 <br />Approach 1:
-In this recursive divide and conquer approach, the function kthis called a total of logm+logn times. Thus the time complexityof this approach would beO(logk). The best case complexitywill be when either of m and n is zero or k is invalid or k isequal to 1. Thus, the best case time complexity isΩ(1)
+The time complexity will beO(2^n)because it checks out allthe possibilities by recursing.
+
 <br />Approach 2:
-In  this  recursive  divide  and  conquer  approach,  the  function kth  is  called  log  k  times.  Thus  the  time  complexity  of  thisapproach would beO(logm+ logn).The  best  case  complexity  will  be  when  either  of  m  and  n  iszero or k is invalid or k is equal to 1. Thus, the best case timecomplexity isΩ(1)
+The time complexity will beO(n∗3)because we are in away doing memoization our approach 1 code and saving time by using values of the precalculated subproblems.
+
 
 **Space Complexity**
 
 <br />Approach 1:
-<br />This algorithm has a space complexity of O(log k)
+<br />The space complexity isO(n),for storing the input array.
+
 <br />Approach 2:
-<br />This algorithm has a space complexity of O(log m+log n)
+<br />The space complexity will beO(n)for input array andO(n∗3)for storing the values of each condition by dynamic programming.
+
 
 ---
 
 ### Conclusion
 
 <br />Above two methods have different time complexity & space complexity and meet to fulfill the problem statement. The order in which they are good can be listed as:
-<br />I. Approach 1
-<br />II. Approach 2
+<br />I. Approach 2
+<br />II. Approach 1
 <br />Based on the time complexity and space complexity.
 
 ### References
+Utkarsh Trivedi, ’Longest Zig-Zag Subsequence’,GeeksforGeeks, 2018. [Online]. [Accessed: 27-Mar-2021]
 
-<br />https://www.geeksforgeeks.org/k-th-element-two-sorted-arrays/
-<br />https://tutorialspoint.dev/algorithm/divide-and-conquer/k-th-element-two-sorted-arrays
